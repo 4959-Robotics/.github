@@ -2,7 +2,7 @@
 
 ## Welcome to the Staley Robotics Github!
 
-![RoboFalcon](https://www.staleyrobotics.com/_next/static/media/Logo24-25.b0242f9d.svg)
+<img src="https://www.staleyrobotics.com/_next/static/media/Logo24-25.b0242f9d.svg" alt="Robotic Falcon Logo" width="400"/><br>
 
 Here you can find our current code and repos<br>
 We're currently working on StaleyRC2025
